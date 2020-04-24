@@ -4,7 +4,7 @@ Depending on your familiarity with the language, each problem is expected to tak
 Start which whichever you fancy.
 
 ## Writing your solution
-Click the _Use this template_ green button ☝️ to create your own **private** instance of this repo. There, you can edit the files directly.
+Click the _"Use this template"_ green button ☝️ to create your own **private** instance of this repo. There, you can edit the files directly.
 
 ## Testing your solution
 Run your edited problem `.js` file directly using [node.js](https://nodejs.org/en/download/).
