@@ -1,7 +1,7 @@
 # Kandua Problem Set 
 Show us your skills! This template repo contains two little JavaScript problems.
 Depending on your familiarity with the language, each problem is expected to take between 5 and 60 minutes.
-Start which whichever you fancy.
+Start with whichever you fancy.
 
 ## ✍️ Writing your solution
 Click the _"Use this template"_ green button ☝️ to create your own **private** instance of this repo. There, you can edit the files directly.
