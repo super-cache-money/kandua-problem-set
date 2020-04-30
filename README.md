@@ -10,7 +10,7 @@ Click the _"Use this template"_ green button above to create your own **private*
 Run your edited problem `.js` file directly using [node.js](https://nodejs.org/en/download/).
 
 ### 📪 Submitting your solution
-Add @super-cache-money as a collaborator to your private repo.
+Add me as a collaborator to your private repo.
 
 ### 🤔 Stuck?
 Send me a message and we'll be more than happy to provide you with a hint or two.
