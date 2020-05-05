@@ -1,10 +1,7 @@
 // Given the following mysterious function:
 function mysteriousFunction(string){
-  return string.match(/\d+_./g) // this is regex
-    .map(textPair => {
-      const index = textPair.indexOf('_');
-      return [textPair.slice(0, index), textPair.slice(index + 1)]
-    })
+  return string.split("_")
+    .map(elem => [parseInt(elem.slice(0, elem.length - 1)), elem[elem.length - 1]])
     .reduce((accum, currentPair) => accum + currentPair[1].repeat(currentPair[0]), "")
 }
 
