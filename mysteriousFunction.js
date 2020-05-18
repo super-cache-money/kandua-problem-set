@@ -14,8 +14,8 @@ function inverseMysteriousFunction(string){
 
     // YOUR CODE ENDS HERE
   },[])
-    .map(pair=>pair.join("_"))
-    .join("");
+    .map(pair=>pair.join(""))
+    .join("_");
 }
 
 // TASK 3: Suggest more descriptive names for the original `mysteriousFunction` and its inverse
